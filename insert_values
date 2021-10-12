@@ -1,0 +1,45 @@
+-- INSERT INTO movie(
+-- 	title,
+-- 	show_time
+-- )VALUES(
+-- 	1942,
+-- 	1030
+-- );
+
+-- INSERT INTO customer(
+-- 	customer_id,
+-- 	first_name,
+-- 	last_name,
+-- 	address,
+-- 	billing_info
+-- )VALUES(
+-- 	1,
+-- 	'Jordan',
+-- 	'Floyd',
+-- 	'4979s brimley way Salt Lake City, UT 84129',
+-- 	'4242-4242-4242'
+-- );
+
+-- INSERT INTO tickets(
+-- 	ticket_id,
+-- 	sub_total,
+-- 	title,
+-- 	customer_id
+-- )VALUES(
+-- 	2,
+-- 	9.00,
+-- 	1942,
+-- 	21
+-- );
+
+-- INSERT INTO consessons(
+-- 	food_name,
+-- 	amount,
+-- 	product_count,
+-- 	customer_id
+-- )VALUES(
+-- 	'popcorn',
+-- 	5.00,
+-- 	10,
+-- 	1
+-- );
